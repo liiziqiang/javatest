@@ -8,8 +8,8 @@ import java.net.InetSocketAddress;
 import java.net.SocketException;  
 /** 
  * @author wangking E-mail:admin717@gmail.com 
- * @version ´´½¨Ê±¼ä£º2009-9-16 ÉÏÎç03:30:11 
- * ÀàËµÃ÷ 
+ * @version åˆ›å»ºæ—¶é—´ï¼š2009-9-16 ä¸Šåˆ03:30:11 
+ * ç±»è¯´æ˜ 
  */  
 public class UdpSender {  
 	public static void sender(String udpstr,String ip,int port) throws IOException{

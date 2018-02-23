@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.lang.annotation.*;
 
 // 用于字段、方法和参数

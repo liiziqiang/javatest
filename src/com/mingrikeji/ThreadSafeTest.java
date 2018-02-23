@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class ThreadSafeTest implements Runnable {
 	int num = 10;
 	

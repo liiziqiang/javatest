@@ -1,4 +1,3 @@
-package com.mingrikeji;
 
 
 public class TheSameName {

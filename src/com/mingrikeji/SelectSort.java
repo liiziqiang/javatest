@@ -1,4 +1,3 @@
-package com.mingrikeji;
 /**
  * 直接选择排序算法实例
  * 

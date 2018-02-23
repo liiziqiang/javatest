@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 import java.awt.*;
 import javax.swing.*;
 public class DrawCircle extends JFrame {

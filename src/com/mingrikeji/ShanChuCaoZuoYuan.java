@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package internalFrame.czyGl;
 
 import internalFrame.CzyGL;
 

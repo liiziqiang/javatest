@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.wsy;
 
 import java.awt.*;
 import java.awt.event.*;

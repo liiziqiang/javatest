@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 import java.awt.*;
 import java.awt.print.*;
 
@@ -26,7 +25,7 @@ public class StudyPreviewCanvas extends JPanel {
 
 	@Override
 	protected void paintComponent(Graphics g) {
-		// TODO �Զ����ɷ������
+		// TODO 自动生成方法存根
 		super.paintComponent(g);
 		Graphics2D g2 = (Graphics2D) g;
 		g2.translate(20, 40);
@@ -36,7 +35,7 @@ public class StudyPreviewCanvas extends JPanel {
 		int height = (int) (pf.getImageableHeight() + 1);
 		int mw = (int) pf.getWidth();
 		int mh = (int) pf.getHeight();
-		g2.drawImage(img, x + 1, y + 1, this); // ����ͼ��
+		g2.drawImage(img, x + 1, y + 1, this); // 绘制图像
 		g2.drawRect(0, 0, mw, mh);
 		g2.setStroke(new BasicStroke(1f, BasicStroke.CAP_ROUND,
 				BasicStroke.JOIN_ROUND, 10f, new float[]{5, 5}, 0f));

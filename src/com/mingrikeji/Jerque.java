@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Jerque { // 新建类
 	public static void main(String[] args) { // 主方法
 		String str = ""; // 创建空字符串

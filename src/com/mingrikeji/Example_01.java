@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.io.*;
 
 public class Example_01 { // 创建类

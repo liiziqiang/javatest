@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 
 public abstract class UseCase1 {
 	abstract void testAbstract();

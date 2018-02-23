@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 
 import java.awt.*;
 import java.awt.print.*;
@@ -11,8 +10,8 @@ public class StudyPrint {
 			if (!job.printDialog())
 				return;
 			job.setPrintable(new Printable() {
-				private final int OVAL_WIDTH = 130; // Բ�εĿ�
-				private final int OVAL_HEIGHT = 130; // Բ�εĸ�
+				private final int OVAL_WIDTH = 130; // 圆形的宽
+				private final int OVAL_HEIGHT = 130; // 圆形的高
 				
 				public int print(Graphics graphics, PageFormat pageFormat,
 						int pageIndex) throws PrinterException {
@@ -23,24 +22,24 @@ public class StudyPrint {
 					Graphics2D g2 = (Graphics2D) graphics;
 					g2.setStroke(new BasicStroke(4.0F));
 					g2.setColor(Color.BLUE);
-					// ���Ƶ�1��Բ��
+					// 绘制第1个圆形
 					g2.drawOval(x + 10, y + 10, OVAL_WIDTH, OVAL_HEIGHT); 
 					g2.setColor(Color.CYAN);
-					// ���Ƶ�2��Բ��
+					// 绘制第2个圆形
 					g2.drawOval(x + 130, y + 10, OVAL_WIDTH, OVAL_HEIGHT); 
 					g2.setColor(Color.GREEN);
-					// ���Ƶ�3��Բ��
+					// 绘制第3个圆形
 					g2.drawOval(x + 250, y + 10, OVAL_WIDTH, OVAL_HEIGHT); 
 					g2.setColor(Color.MAGENTA);
-					// ���Ƶ�4��Բ��
+					// 绘制第4个圆形
 					g2.drawOval(x + 70, y + 120, OVAL_WIDTH, OVAL_HEIGHT); 
 					g2.setColor(Color.ORANGE);
-					// ���Ƶ�5��Բ��
+					// 绘制第5个圆形
 					g2.drawOval(x + 190, y + 120, OVAL_WIDTH, OVAL_HEIGHT); 
 					return Printable.PAGE_EXISTS;
 				}
 			});
-			job.setJobName("��ӡͼ��");
+			job.setJobName("打印图形");
 			job.print();
 		} catch (PrinterException e) {
 			e.printStackTrace();

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 interface drawTest { // 定义接口
 	public void draw(); // 定义方法
 }

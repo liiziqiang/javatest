@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class ExponentFunction {
 	public static void main(String[] args) {
 		System.out.println("e的平方值：" + Math.exp(2)); // 取e的2次方

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Captor { // 创建类
 	static int quotient(int x, int y) throws MyException { // 定义方法抛出异常
 		if (y < 0) { // 判断参数是否小于0

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class NewStr { // 创建类
 	public static void main(String args[]) { // 主方法
 		String str = "address"; // 定义字符串str

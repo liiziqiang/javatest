@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class ThreadTest extends Thread { // 指定类继承Thread类
 	private int count = 10;
 	

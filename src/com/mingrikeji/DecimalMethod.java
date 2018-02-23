@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.text.*;
 
 public class DecimalMethod {

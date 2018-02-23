@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.util.*;
 public class UpdateStu implements Comparable<Object> {
 	String name;

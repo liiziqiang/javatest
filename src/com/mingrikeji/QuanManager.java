@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package internalFrame;
 
 import internalFrame.guanli.Item;
 import java.awt.Dimension;

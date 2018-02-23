@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Number { // 创建类
 	public static void main(String[] args) { // 主方法
 		byte mybyte = 124; // 声明byte型变量并赋值

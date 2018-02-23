@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class MathRandomChar {
 	// 定义获取任意字符之间的随机字符
 	public static char GetRandomChar(char cha1, char cha2) {

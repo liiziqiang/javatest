@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.lang.annotation.*;
 
 @Target(ElementType.CONSTRUCTOR)

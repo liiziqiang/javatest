@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 public class TbSellDetail implements java.io.Serializable {
 	private Integer id;
 	private String tbSellMain;

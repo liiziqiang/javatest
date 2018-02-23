@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class var {
 	public static void main(String[] args) {
 		int myint = 56;

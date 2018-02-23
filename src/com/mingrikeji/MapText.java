@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class MapText { // 创建类
 	static int age = 20; // 声明的类变量。
 	

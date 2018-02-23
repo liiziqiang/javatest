@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.iframe.keHuGuanLi;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;

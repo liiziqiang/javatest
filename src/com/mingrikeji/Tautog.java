@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Tautog { // 创建类
 	public static void main(String[] args) { // 主方法
 		int arr2[][] = { { 4, 3 }, { 1, 2 } }; // 定义二维数组

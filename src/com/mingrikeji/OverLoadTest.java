@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class OverLoadTest {
 	public static int add(int a, int b) { // 定义一个方法
 		return a + b;

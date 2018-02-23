@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Emp {
 	private String e_id;
 	private String e_name;

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 interface OutInterface2 { // 定义一个接口
 }
 class OuterClass3 {

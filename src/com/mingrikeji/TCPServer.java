@@ -1,4 +1,3 @@
-package com.mingrikeji;
 // 服务器端程序
 import java.awt.*;
 import java.io.*;

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Circulate { // 创建类Circulate
 	public static void main(String args[]) { // 主方法
 		int sum = 0; // 声明变量，用于保存各数相加后的结果

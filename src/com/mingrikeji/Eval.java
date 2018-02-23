@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Eval { // 创建类
 	public static void main(String[] args) { // 主方法
 		int a, b, c; // 声明int行变量a,b,c

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Matrix { // 创建类
 	public static void main(String[] args) { // 主方法
 		int a[][] = new int[][] {{2,2,2},{3,3,3,3},{4,4,4,4}}; // 定义二维数组

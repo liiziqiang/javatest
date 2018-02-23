@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 public class TbRukuDetail implements java.io.Serializable {
 	private String id;
 	private String tbSpinfo;

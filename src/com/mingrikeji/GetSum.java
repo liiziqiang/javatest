@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class GetSum { // 创建类
 	public static void main(String args[]) { // 主方法
 		int x = 1; // 定义int型变量x，并赋给初值

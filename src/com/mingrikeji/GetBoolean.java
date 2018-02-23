@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class GetBoolean { // 创建类GetBoolean
 	public static void main(String args[]) { // 主方法
 		Boolean b1 = new Boolean(true); // 创建Boolean对象

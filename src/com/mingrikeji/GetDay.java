@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class GetDay { // 创建类
 	public static void main(String[] args) { // 主方法
 		// 创建并初始化一维数组

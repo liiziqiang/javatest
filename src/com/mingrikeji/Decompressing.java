@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.io.*;
 import java.util.zip.*;
 

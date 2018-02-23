@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;

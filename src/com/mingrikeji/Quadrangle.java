@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Quadrangle {
 	// 实例化保存四边形对象的数组对象
 	private Quadrangle[] qtest = new Quadrangle[6];

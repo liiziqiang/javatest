@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 
 import static java.awt.BorderLayout.*;
 import static javax.swing.border.BevelBorder.*;

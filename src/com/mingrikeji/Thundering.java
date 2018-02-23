@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Thundering { // 创建类
 	public static void main(String[] args) { // 主方法
 		String str = "lili"; // 定义字符串

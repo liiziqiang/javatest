@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class StartOrEnd { // 创建类
 	public static void main(String args[]) { // 主方法
 		String num1 = "22045612"; // 定义字符串num1

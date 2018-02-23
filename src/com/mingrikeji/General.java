@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class General { // 新建类
 	public static void main(String[] args) { // 主方法
 		String str = String.format("%d", 400 / 2); // 将结果以十进制显示

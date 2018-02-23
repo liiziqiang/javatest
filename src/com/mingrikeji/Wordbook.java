@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Wordbook { // 创建类
 	public static void main(String args[]) { // 主方法
 		String str = new String("b");

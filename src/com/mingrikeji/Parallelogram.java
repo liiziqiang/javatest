@@ -1,4 +1,3 @@
-package com.mingrikeji;
 class Quadrangle { // 四边形类
 	public static void draw(Quadrangle q) { // 四边形类中的方法
 		// SomeSentence

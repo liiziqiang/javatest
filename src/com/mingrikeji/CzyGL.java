@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package internalFrame;
 
 import internalFrame.czyGl.ShanChuCaoZuoYuan;
 import internalFrame.czyGl.TJCzy;

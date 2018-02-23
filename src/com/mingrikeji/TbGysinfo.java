@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 
 
 

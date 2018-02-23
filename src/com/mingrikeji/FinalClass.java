@@ -1,4 +1,3 @@
-package com.mingrikeji;
 final class FinalClass {
 	int a = 3;
 	

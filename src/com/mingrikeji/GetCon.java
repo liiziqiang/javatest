@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class GetCon { // 创建类GetCon
 	public static void main(String args[]) { // 主方法
 		int maxint = Integer.MAX_VALUE; // 获取Integer类的常量值

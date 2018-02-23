@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Repetition { // 创建类Repetition
 	public static void main(String args[]) { // 主方法
 		int arr [] = { 7, 10, 1 }; // 声明一维数组

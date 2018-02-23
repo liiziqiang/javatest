@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class JavaBook {  
     public static void main(String[] args) {  
         Runner1 runner1 = new Runner1();  

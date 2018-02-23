@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.awt.FlowLayout;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;

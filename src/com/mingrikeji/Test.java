@@ -1,4 +1,3 @@
-package com.mingrikeji;
 class Test {
 	public Test() { // 构造方法
 		// SomeSentence

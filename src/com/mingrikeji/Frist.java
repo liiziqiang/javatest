@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package Number;
 
 public class Frist {
 	static String s1 = "你好";

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Gess { // 定义类
 	public static void main(String[] args) { // 主方法
 		char word = 'd', word2 = '@'; // 定义char型变量

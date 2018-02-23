@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Opinion { // 创建类
 	public static void main(String args[]) { // 主方法
 		String s1 = new String("abc"); // 创建字符串对象s1

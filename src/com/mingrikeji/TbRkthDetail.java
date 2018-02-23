@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 public class TbRkthDetail implements java.io.Serializable {
 	private Integer id;
 	private String tbRkthMain;

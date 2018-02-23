@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class OuterClass {
 	innerClass in = new innerClass(); // 在外部类实例化内部类对象引用
 	

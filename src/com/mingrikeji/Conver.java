@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Conver { // 创建类
 	public static void main(String[] args) {
 		// 定义byte型变量mybyte，并把byte型变量允许的最大值赋给mybyte

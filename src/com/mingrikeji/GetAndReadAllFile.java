@@ -1,5 +1,4 @@
-package com.mingrikeji;
-import java.io.BufferedReader;  
+锘縤mport java.io.BufferedReader;  
 import java.io.File;  
 import java.io.FileFilter;  
 import java.io.FileInputStream;  
@@ -19,7 +18,7 @@ public class GetAndReadAllFile {
   
   
     /** 
-     * 获取文件的扩展名 
+     * 鑾峰彇鏂囦欢鐨勬墿灞曞悕 
      *  
      * @param filename 
      * @param defExt 
@@ -44,7 +43,7 @@ public class GetAndReadAllFile {
   
   
     /** 
-     * 获取一个文件夹下的所有文件 要求：后缀名为txt (可自己修改) 
+     * 鑾峰彇涓�涓枃浠跺す涓嬬殑鎵�鏈夋枃浠� 瑕佹眰锛氬悗缂�鍚嶄负txt (鍙嚜宸变慨鏀�) 
      *  
      * @param file 
      * @return 
@@ -55,7 +54,7 @@ public class GetAndReadAllFile {
             System.out.println(file.getAbsolutePath());  
             result.add(file.getAbsolutePath());  
         } else {  
-            // 内部匿名类，用来过滤文件类型  
+            // 鍐呴儴鍖垮悕绫伙紝鐢ㄦ潵杩囨护鏂囦欢绫诲瀷  
             File[] directoryList = file.listFiles(new FileFilter() {  
                 public boolean accept(File file) {  
                     if (file.isFile() && file.getName().indexOf("java") > -1) {  
@@ -74,7 +73,7 @@ public class GetAndReadAllFile {
   
   
     /** 
-     * 以UTF-8编码方式读取文件内容 
+     * 浠TF-8缂栫爜鏂瑰紡璇诲彇鏂囦欢鍐呭 
      *  
      * @param path 
      * @return 
@@ -100,7 +99,7 @@ public class GetAndReadAllFile {
   
   
     /** 
-     * 去掉文件的扩展名 
+     * 鍘绘帀鏂囦欢鐨勬墿灞曞悕 
      *  
      * @param filename 
      * @return 
@@ -122,14 +121,14 @@ public class GetAndReadAllFile {
     public static void main(String[] args) throws IOException {  
         // Test get and read all file  
         List<String> fileList = getFileList(new File(  
-                "D:\\BaiduYunDownload\\Java从入门到精通第三版(明日科技)\\TM（视频讲解及实例源程序）\\sl（实例源程序）\\12.09\\src"));  
+                "D:\\BaiduYunDownload\\Java浠庡叆闂ㄥ埌绮鹃�氱涓夌増(鏄庢棩绉戞妧)\\TM锛堣棰戣瑙ｅ強瀹炰緥婧愮▼搴忥級\\sl锛堝疄渚嬫簮绋嬪簭锛塡\12.09\\src"));  
         String fileContent = null;  
         String[] content = null;  
   
   
         System.out.println("**" + fileList.size());  
         for (String s : fileList) {  
-            // 打印文件名  
+            // 鎵撳嵃鏂囦欢鍚�  
             int cnt = 0;  
 //          boolean flag = false;  
 //          for (int i = 0; i < s.length(); i++) {  
@@ -147,11 +146,11 @@ public class GetAndReadAllFile {
   
   
             // System.out.println(trimExtension(s));  
-            // 文件内容  
+            // 鏂囦欢鍐呭  
             fileContent = getContentByLocalFile(new File(s));  
-            // 打印文件内容  
+            // 鎵撳嵃鏂囦欢鍐呭  
             // System.out.println(fileContent);  
-            // 以逗号为单位进行拆分字段  
+            // 浠ラ�楀彿涓哄崟浣嶈繘琛屾媶鍒嗗瓧娈�  
             content = fileContent.split(",");  
             System.out.println(content[1]);  
         }  

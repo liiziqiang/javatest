@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import static javax.swing.tree.TreeSelectionModel.*;
 
 import java.awt.*;

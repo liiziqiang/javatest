@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.sql.*;
 public class Prep { // 创建类Perp
 	static Connection con; // 声明Connection对象

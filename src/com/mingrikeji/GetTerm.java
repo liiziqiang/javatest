@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class GetTerm { // 创建主类
 	public static void main(String args[]) { // 主方法
 		int x = 1-1; // 声明int型局部变量

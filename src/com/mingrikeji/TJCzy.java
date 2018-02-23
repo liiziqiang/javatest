@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package internalFrame.czyGl;
 
 import java.awt.Font;
 import java.awt.GridBagConstraints;

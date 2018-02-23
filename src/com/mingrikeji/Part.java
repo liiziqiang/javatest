@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Part { // 新建类Part
 	// 声明常量PI，此时如不对PI进行赋值，则会出现错误提示
 	static final double PI = 3.14;

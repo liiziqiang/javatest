@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.iframe;
 import java.awt.Component;
 import java.sql.*;
 import java.util.EventObject;

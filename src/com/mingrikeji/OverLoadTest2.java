@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class OverLoadTest2 {
 	public static int add(int a, int b) {
 		return a + b;

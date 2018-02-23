@@ -1,8 +1,7 @@
-package com.mingrikeji;
-public class Subs { // ������
-	public static void main(String args[]) { // ������
-		String str = "hello word"; // ������ַ���
-		String substr = str.substring(1, 4); // ���ַ������н�ȡ
-		System.out.println(substr); // �����ȡ����ַ���
+public class Subs { // 创建类
+	public static void main(String args[]) { // 主方法
+		String str = "hello word"; // 定义的字符串
+		String substr = str.substring(1, 4); // 对字符串进行截取
+		System.out.println(substr); // 输出截取后的字符串
 	}
 }

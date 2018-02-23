@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class TransferProperty {
 	int i = 47; // 定义成员变量
 	

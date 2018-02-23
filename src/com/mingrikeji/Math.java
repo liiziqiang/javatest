@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw; // 指定包名
 
 public class Math {
 	public static void main(String[] args) {

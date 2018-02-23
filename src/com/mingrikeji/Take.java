@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Take { // 创建类
 	public static void main(String[] args) {
 		try { // try语句中包含可能出现异常的程序代码

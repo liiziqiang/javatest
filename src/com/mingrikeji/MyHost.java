@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.net.*;
 
 public class MyHost {

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 /**
  * 反转排序算法实例
  * 

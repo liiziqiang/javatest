@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Val { // 新建类
 	static int times = 3; // 定义成员变量times
 	

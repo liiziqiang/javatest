@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 
 public class UseCase4 {
 	public static void main(String[] args) {

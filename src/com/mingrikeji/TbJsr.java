@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 public class TbJsr {
 	private String name;
 	private String sex;

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Tran { // 创建类
 	 // 定义方法，抛出异常
 	static int avg(int number1, int number2) throws MyException {

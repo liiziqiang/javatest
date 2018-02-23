@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import static java.lang.System.*;
 
 public class EnumIndexTest {

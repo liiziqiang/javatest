@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Cycle {
 	public static void main(String args[]) {
 		int a = 100; // 声明int型变量a并赋初值100

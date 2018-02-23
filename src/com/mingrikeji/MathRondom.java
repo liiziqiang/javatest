@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class MathRondom {
 	/**
 	 * 定义产生偶数的方法

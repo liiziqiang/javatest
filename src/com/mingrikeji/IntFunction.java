@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class IntFunction {
 	public static void main(String[] args) {
 		// 返回第一个大于等于参数的整数

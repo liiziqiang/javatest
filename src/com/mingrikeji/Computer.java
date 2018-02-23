@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Computer {
     public static int getMaxComm(int m , int n) throws MyException{
     	if( m <= 0 ||n<=0){

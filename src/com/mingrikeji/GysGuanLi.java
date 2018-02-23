@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.iframe;
 import javax.swing.JInternalFrame;
 import javax.swing.JTabbedPane;
 import javax.swing.event.ChangeEvent;

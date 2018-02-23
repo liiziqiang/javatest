@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 
 public class UseCase3 {
 	private float height;

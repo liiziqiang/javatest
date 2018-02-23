@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.login;
 
 import java.awt.*;
 import java.net.URL;

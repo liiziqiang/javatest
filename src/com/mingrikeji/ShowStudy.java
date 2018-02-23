@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class ShowStudy {
 	public static void main(String[] args) {
 		System.out.println("--------------");

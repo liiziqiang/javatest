@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Summation { // 创建类Summation
 	public static void main(String args[]) { // 主方法
 		String str[] = { "89", "12", "10", "18", "35" }; // 定义String数组

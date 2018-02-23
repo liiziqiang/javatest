@@ -1,6 +1,5 @@
-package com.mingrikeji;
 
-
+package com.lzw;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ComponentAdapter;

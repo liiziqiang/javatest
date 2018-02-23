@@ -1,4 +1,3 @@
-package com.mingrikeji;
 class Parents {
 	private final void doit() {
 		System.out.println("父类.doit()");

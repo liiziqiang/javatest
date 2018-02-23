@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Judge {
 	public static void main(String[] args) {
 		 // 定义要匹配E_mail地址的正则表达式

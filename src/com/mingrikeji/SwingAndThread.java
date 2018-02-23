@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.awt.*;
 import java.net.*;
 

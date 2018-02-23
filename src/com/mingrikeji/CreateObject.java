@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class CreateObject {
 	public CreateObject() { // 构造方法
 		System.out.println("创建对象");

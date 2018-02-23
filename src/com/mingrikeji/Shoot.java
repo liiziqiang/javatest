@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Shoot { // 创建类
 	static void pop() throws NegativeArraySizeException {
 		// 定义方法并抛出NegativeArraySizeException异常

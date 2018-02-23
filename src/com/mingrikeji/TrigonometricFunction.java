@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class TrigonometricFunction {
 	public static void main(String[] args) {
 		System.out.println(Math.E+"   "+Math.pow(2, 3));

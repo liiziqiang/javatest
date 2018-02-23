@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package model;
 public class TbUserlist {
 	private String name;
 	private String username;

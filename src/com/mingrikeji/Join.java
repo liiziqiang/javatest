@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Join { // 创建类
 	public static void main(String args[]) { // 主方法
 		String s1 = new String("hello"); // 声明String对象s1

@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.iframe.gysGuanLi;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;

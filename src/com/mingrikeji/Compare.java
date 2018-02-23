@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Compare {
 	public static void main(String[] args) {
 		String c1 = new String("abc"); // 创建两个String型对象引用

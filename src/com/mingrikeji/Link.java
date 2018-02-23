@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Link { // 创建类
 	public static void main(String args[]) { // 主方法
 		int booktime = 4; // 声明的int型变量booktime

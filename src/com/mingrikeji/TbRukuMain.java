@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw.dao.model;
 import java.util.HashSet;
 import java.util.Set;
 public class TbRukuMain  implements java.io.Serializable {

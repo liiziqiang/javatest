@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Example_03 {
 	static void staticMethod() {
 		System.out.println("执行staticMethod()方法");

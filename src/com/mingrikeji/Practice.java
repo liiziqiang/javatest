@@ -1,4 +1,3 @@
-package com.mingrikeji;
 
 public class Practice { // 创建类
 	public static void main(String[] args) {

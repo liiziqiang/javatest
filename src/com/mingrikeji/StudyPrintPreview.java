@@ -1,5 +1,4 @@
-package com.mingrikeji;
-
+package com.lzw;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;
@@ -13,8 +12,8 @@ import java.awt.print.PrinterJob;
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 public class StudyPrintPreview {
-	private final static int OVAL_WIDTH = 130; // Բ�εĿ�
-	private final static int OVAL_HEIGHT = 130; // Բ�εĸ�
+	private final static int OVAL_WIDTH = 130; // 圆形的宽
+	private final static int OVAL_HEIGHT = 130; // 圆形的高
 	private static int x;
 	private static int y;
 
@@ -36,7 +35,7 @@ public class StudyPrintPreview {
 				return Printable.PAGE_EXISTS;
 			}
 		});
-		job.setJobName("��ӡͼ��");
+		job.setJobName("打印图形");
 		pf = job.pageDialog(pf);
 		drawPage(img.getGraphics(), x, y);
 		StudyPreviewCanvas canvas = new StudyPreviewCanvas(pf, img);
@@ -54,14 +53,14 @@ public class StudyPrintPreview {
 		g2.fillRect(0, 0, 400, 300);
 		g2.setStroke(new BasicStroke(4.0F));
 		g2.setColor(Color.BLUE);
-		g2.drawOval(x + 10, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // ���Ƶ�1��Բ��
+		g2.drawOval(x + 10, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // 绘制第1个圆形
 		g2.setColor(Color.CYAN);
-		g2.drawOval(x + 130, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // ���Ƶ�2��Բ��
+		g2.drawOval(x + 130, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // 绘制第2个圆形
 		g2.setColor(Color.GREEN);
-		g2.drawOval(x + 250, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // ���Ƶ�3��Բ��
+		g2.drawOval(x + 250, y + 10, OVAL_WIDTH, OVAL_HEIGHT); // 绘制第3个圆形
 		g2.setColor(Color.MAGENTA);
-		g2.drawOval(x + 70, y + 120, OVAL_WIDTH, OVAL_HEIGHT); // ���Ƶ�4��Բ��
+		g2.drawOval(x + 70, y + 120, OVAL_WIDTH, OVAL_HEIGHT); // 绘制第4个圆形
 		g2.setColor(Color.ORANGE);
-		g2.drawOval(x + 190, y + 120, OVAL_WIDTH, OVAL_HEIGHT); // ���Ƶ�5��Բ��
+		g2.drawOval(x + 190, y + 120, OVAL_WIDTH, OVAL_HEIGHT); // 绘制第5个圆形
 	}
 }

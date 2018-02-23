@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.io.*;
 
 public class FileTest { // 创建类

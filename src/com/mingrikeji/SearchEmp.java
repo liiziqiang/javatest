@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.sql.*;
 
 public class SearchEmp {

@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class UpperOrLower { // 创建类UpperOrLower
 	public static void main(String args[]) { // 主方法
 		Character mychar1 = new Character('A'); // 声明Character对象

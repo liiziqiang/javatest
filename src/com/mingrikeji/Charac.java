@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Charac { // 创建类Charac
 	public static void main(String args[]) { // 主方法
 		String str = Integer.toString(456); // 获取数字的十进制表示

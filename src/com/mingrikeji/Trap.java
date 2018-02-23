@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Trap { // 创建类
 	public static void main(String[] args) { // 主方法
 		int b[][] = new int[][]{{ 1 },{ 2, 3},{ 4, 5, 6 } };// 定义二维数组

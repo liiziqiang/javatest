@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Division { // 创建类
 	public static void main(String args[]) { // 主方法
 		String str = new String("abc,def,ghi,gkl"); // 定义的字符串str

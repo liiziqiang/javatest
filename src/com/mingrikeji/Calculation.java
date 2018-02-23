@@ -1,4 +1,3 @@
-package com.mingrikeji;
 public class Calculation { // 创建类
 	public static void main(String[] args) {
 		int a = 2; // 声明int型变量a

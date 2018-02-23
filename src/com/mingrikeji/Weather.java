@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.net.*;
 
 public class Weather extends Thread { // 创建类。该类为多线程执行程序

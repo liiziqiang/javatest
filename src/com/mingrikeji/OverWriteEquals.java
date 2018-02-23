@@ -1,4 +1,3 @@
-package com.mingrikeji;
 class V { // 自定义类V
 }
 

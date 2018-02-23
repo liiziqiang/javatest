@@ -1,4 +1,3 @@
-package com.mingrikeji;
 import java.lang.reflect.*;
 
 public class Main_03 {

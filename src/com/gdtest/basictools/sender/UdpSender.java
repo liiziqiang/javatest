@@ -22,6 +22,6 @@ public class UdpSender {
 	}
     public static void main(String[] args) throws Exception {  
         String str=  "20006|100020|3"+"\r"+"\n" ;
-        sender(str,"172.18.13.17",20006);         
+        sender(str,"172.18.100.31",20006);         
     }      
 } 
